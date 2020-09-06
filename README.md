@@ -1,7 +1,7 @@
-####Demo Git Repo
+Demo Git Repo
 This is the first line in the repo
 
-##Website Contents
+Website Contents
 here are the contents:
 1.index.html
 2. css
